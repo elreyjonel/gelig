@@ -10,6 +10,7 @@
     <section id="main">
       <header id="title">
         <h1>JONEL D. GELIG</h1>
+        <img src="images/me.jpg" alt="Boy in a jacket"> 
         <span class="subtitle">MIT-II student</span>
       </header>
       <section class="main-block">

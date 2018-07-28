@@ -79,11 +79,7 @@
 
         <section class="blocks">
 
-          <div class="date">
-
-            <span>2013</span><span>2014</span>
-
-          </div>
+         </div>
 
           <div class="decorator">
 
@@ -93,21 +89,19 @@
 
             <header>
 
-              <h3>Yet Another Job Position</h3>
+              <h3>Barangay Kagawad</h3>
 
-              <span class="place">Some Workplace</span>
+              <span class="place">Nailon, Bogo City, Cebu</span>
 
-              <span class="location">Some City, Some Country</span>
-
-            </header>
+             </header>
 
             <div>
 
               <ul>
 
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio</li>
+                <li>Handles the committee on Legal Matters and Human Rights</li>
 
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+                <li>Holds second highest position in the council</li>
 
               </ul>
 
@@ -121,128 +115,7 @@
 
       <section class="main-block">
 
-        <h2>
-
-          <i class="fa fa-folder-open"></i> Selected Projects
-
-        </h2>
-
-        <section class="blocks">
-
-          <div class="date">
-
-            <span>2015</span><span>2016</span>
-
-          </div>
-
-          <div class="decorator">
-
-          </div>
-
-          <div class="details">
-
-            <header>
-
-              <h3>Some Project 1</h3>
-
-              <span class="place">Some workplace</span>
-
-            </header>
-
-            <div>
-
-              <ul>
-
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio. Vestibulum dapibus pharetra odio, egestas ullamcorper ipsum congue ac</li>
-
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio</li>
-
-              </ul>
-
-            </div>
-
-          </div>
-
-        </section>
-
-        <section class="blocks">
-
-          <div class="date">
-
-            <span>2014</span><span>2015</span>
-
-          </div>
-
-          <div class="decorator">
-
-          </div>
-
-          <div class="details">
-
-            <header>
-
-              <h3>Some Project 2</h3>
-
-              <span class="place">Some workplace</span>
-
-            </header>
-
-            <div>
-
-              <ul>
-
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio. Vestibulum dapibus pharetra odio, egestas ullamcorper ipsum congue ac. Maecenas viverra tortor eget convallis vestibulum. Donec pulvinar venenatis est, non sollicitudin metus laoreet sed. Fusce tincidunt felis nec neque aliquet porttitor</li>
-
-              </ul>
-
-            </div>
-
-          </div>
-
-        </section>
-
-        <section class="blocks">
-
-          <div class="date">
-
-            <span>2014</span>
-
-          </div>
-
-          <div class="decorator">
-
-          </div>
-
-          <div class="details">
-
-            <header>
-
-              <h3>Some Project 3</h3>
-
-              <span class="place">Some workplace</span>
-
-            </header>
-
-            <div>
-
-              <ul>
-
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio</li>
-
-              </ul>
-
-            </div>
-
-          </div>
-
-        </section>
-
-      </section>
-
-      <section class="main-block concise">
-
+       
         <h2>
 
           <i class="fa fa-graduation-cap"></i> Education
@@ -251,12 +124,7 @@
 
         <section class="blocks">
 
-          <div class="date">
-
-            <span>2009</span><span>2014</span>
-
-          </div>
-
+         
           <div class="decorator">
 
           </div>
@@ -265,15 +133,14 @@
 
             <header>
 
-              <h3>Ph.D. in Forty-Two Discovery</h3>
+              <h3>Doctor in Management major in Human Resource Management</h3>
 
-              <span class="place">Inexistent University</span>
+              <span class="place">University of San Jose Recoletos</span>
 
-              <span class="location">Some City, Some Country</span>
+              <span class="location">Cebu City</span>
 
             </header>
 
-            <div>Relationship of the number with the answer to life, the universe and everything</div>
 
           </div>
 
@@ -281,12 +148,6 @@
 
         <section class="blocks">
 
-          <div class="date">
-
-            <span>2005</span><span>2009</span>
-
-          </div>
-
           <div class="decorator">
 
           </div>
@@ -295,25 +156,19 @@
 
             <header>
 
-              <h3>LL.B. in H&aelig;matophagic Economics</h3>
+              <h3>Master in Business Education</h3>
 
-              <span class="place">Inexistent University</span>
+              <span class="place">University of San Jose Recoletos</span>
 
-              <span class="location">Some City, Some Country</span>
+              <span class="location">Cebu City</span>
 
             </header>
 
-            <div>President's Scholarship</div>
-
-          </div>
 
         </section>
 
         <section class="blocks">
 
-          <div class="date">
-
-            <span>2005</span><span>2009</span>
 
           </div>
 
@@ -325,25 +180,21 @@
 
             <header>
 
-              <h3>B.S. in Existential Science (Double Major)</h3>
+              <h3>Bachelor of Science in Computer Science</h3>
 
-              <span class="place">Inexistent University</span>
+              <span class="place">University of San Jose Recoletos</span>
 
-              <span class="location">Some City, Some Country</span>
+              <span class="location">Cebu City</span>
 
             </header>
 
-            <div>President's Scholarship</div>
-
-          </div>
-
+            
         </section>
 
         <section class="blocks">
 
-          <div class="date">
-
-          </div>
+          
+          
 
           <div class="decorator">
 
@@ -351,41 +202,7 @@
 
           <div class="details">
 
-            <header>
-
-              <h3>Massive Online Fee&ndash;Required Course (selective list)</h3>
-
-            </header>
-
-            <div class="concise">
-
-              <ul>
-
-                <li>Introduction to something else</li>
-
-                <li>Introduction to some more useless things</li>
-
-                <li>Philosophy in practice</li>
-
-                <li>Recursive research and its impact on recursive research</li>
-
-                <li>Artificial politics</li>
-
-              </ul>
-
-            </div>
-
-          </div>
-
-        </section>
-
-      </section>
-
-    </section>
-
-    <aside id="sidebar">
-
-      <div class="side-block" id="contact">
+           
 
         <h1>
 
@@ -395,13 +212,9 @@
 
         <ul>
 
-          <li><i class="fa fa-globe"></i> johndoe.gtld</li>
+          <li><i class="fa fa-globe"></i> elreyjonel@gmail.com</li>
 
-          <li><i class="fa fa-linkedin"></i> linkedin.com/in/john</li>
-
-          <li><i class="fa fa-envelope"></i> me@johndoe.gtld</li>
-
-          <li><i class="fa fa-phone"></i> 800.000.0000</li>
+          <li><i class="fa fa-phone"></i> 09778424200</li>
 
         </ul>
 
@@ -417,25 +230,18 @@
 
         <ul>
 
-          <li>Omnipresence</li>
+          <li>Ordinarity</li>
 
           <li>Anonymity</li>
 
         </ul>
 
-        <ul>
-
-          <li>Ordinarity</li>
-
-          <li>No name rights</li>
-
-        </ul>
 
       </div>
 
       <div class="side-block" id="disclaimer">
 
-        This r&eacute;sum&eacute; was wholly typeset with HTML/CSS &mdash; see <code>git.io/vVSYL</code>
+        
 
       </div>
 

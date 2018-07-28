@@ -6,12 +6,25 @@
     <link rel="stylesheet" type="text/css" href="dep/Font-Awesome/css/font-awesome.css" />
     <link rel="stylesheet" type="text/css" href="style.css" />
   </head>
+
+<style type = "text/css"> 
+body{
+ 	width: 50%;
+	margin: auto;
+}
+.pullright{
+	float: right;
+}
+
+</style>
   <body lang="en">
     <section id="main">
       <header id="title">
         <h1>JONEL D. GELIG</h1>
-        <img src="images/me.jpg" alt="Boy in a jacket"> 
+
+	 <span class = "pullright"><img src="images/me.jpg" alt="Boy in a jacket"></span> 
         <span class="subtitle">MIT-II student</span>
+
       </header>
       <section class="main-block">
         <h2>
